@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "week 13 homework",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T2theP/friendFinder.git"
+  },
+  "author": "Tom Payne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T2theP/friendFinder/issues"
+  },
+  "homepage": "https://github.com/T2theP/friendFinder#readme"
+}
